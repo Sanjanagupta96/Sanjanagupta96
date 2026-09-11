@@ -104,18 +104,6 @@ Web app to track and analyze student academic performance via dashboards.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjanagupta96&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Sanjanagupta96&theme=tokyonight" height="165" alt="Streak Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanagupta96&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
-
-<br/>
 
 ## 📫 Let's Connect
 
