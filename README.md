@@ -58,9 +58,10 @@ Java · Servlets · JSP · MySQL · React
 ---
 
 📫 Let's Connect
-![Gmail](sanjanagupta886060@gmail.com)
-![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sanjana-gupta-1359a629a/))
-![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Sanjanagupta96))
-![LeetCode]([https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://leetcode.com/u/sanjanagupta8860/))
-![Portfolio]([https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio-six-taupe-33.vercel.app/))
-> 🔧 Replace the `#` links with your real LinkedIn, GitHub, and LeetCode profile URLs.
+
+![sanjanagupta886060@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://www.linkedin.com/in/sanjana-gupta-1359a629a/](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://github.com/Sanjanagupta96](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![https://leetcode.com/u/sanjanagupta8860/](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![https://portfolio-six-taupe-33.vercel.app/](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
