@@ -30,30 +30,33 @@ Hi 👋, I'm Sanjana Gupta
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/Sanjanagupta96))
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel]([https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio-six-taupe-33.vercel.app/))
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 📘 Currently Learning
 🧱 Cloud fundamentals (Microsoft Azure)
 🔗 REST API design & Spring Data JPA
 🧩 Advanced Data Structures & Algorithms
 🤖 Machine Learning basics
+---
 
 📦 Projects Worth Exploring
 💰 Financial Portfolio Management System (Wells Fargo – Forage, July 2026)  
 Java · Spring Boot · Spring Data JPA · Hibernate · H2 Database  
-`<repo link here>`
+`<https://github.com/Sanjanagupta96/wells-fargo-task-2>`
 🛡️ Abhyantra – Women's Safety Platform  
 Java · Servlets · JSP · MySQL · React  
-`<repo link here>`
+`<https://github.com/Sanjanagupta96/Abhayantra>`
 🏙️ Public Utility Management System – Nagar Nigam Complaint Tracker  
 HTML · CSS · Bootstrap · Java · SQL · Figma  
-`<repo link here>`
+`<https://github.com/Sanjanagupta96/Nagar-Nigam-Complaint-Tracker>`
 📊 Student Performance Tracker  
 Java · Servlets · JSP · MySQL · React  
-`<repo link here>`
+`<https://github.com/Sanjanagupta96/Student-Performance-Tracker>`
 ---
+
 📫 Let's Connect
 ![Gmail](sanjanagupta886060@gmail.com)
 ![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sanjana-gupta-1359a629a/))
