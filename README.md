@@ -9,7 +9,7 @@
 </div>
 
 <br/>
-
+qxCnfeUL
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE, Dr APJ Abdul Kalam Technical University (2022 – 2026), CGPA 8.5
@@ -116,4 +116,5 @@ Web app to track and analyze student academic performance via dashboards.
 <a href="https://portfolio-six-taupe-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
+![Uploading image.png…]()
 
