@@ -1,67 +1,131 @@
-Hi 👋, I'm Sanjana Gupta
-🎓 B.Tech CSE, Dr APJ Abdul Kalam Technical University (2022 – 2026)  
-💡 Aspiring Software Developer | Java · Spring Boot · React · MySQL  
-🚀 Building full-stack projects and strengthening my Data Structures & Algorithms  
-📚 2026 graduate, open to Software Developer / Full Stack Developer roles
-📫 Reach me at: sanjanagupta886060@gmail.com
-🌐 Portfolio: https://portfolio-six-taupe-33.vercel.app/
----
-💻 Aspiring Full-Stack Developer | 🧠 Java & Spring Boot | 🌱 Always Learning
----
-🧠 About Me
-🎓 B.Tech CSE @ AKTU (CGPA: 8.5)
-🛠️ Full-stack development with Java, Spring Boot, React, and MySQL
-🔭 Currently working on: full-stack projects using Java, Spring Boot, and React
-🌱 Currently learning: cloud fundamentals (Azure) and advanced Data Structures & Algorithms
-👯 Looking to collaborate on: Java/Spring Boot backend projects and React-based web applications
-🤔 Looking for help with: real-world project experience and open-source contribution opportunities
-💬 Ask me about: Java, Spring Boot, React, MySQL, or DSA
----
-🛠️ Tech Stack & Tools
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-📘 Currently Learning
-🧱 Cloud fundamentals (Microsoft Azure)
-🔗 REST API design & Spring Data JPA
-🧩 Advanced Data Structures & Algorithms
-🤖 Machine Learning basics
----
+<div align="center">
 
-📦 Projects Worth Exploring
-💰 Financial Portfolio Management System (Wells Fargo – Forage, July 2026)  
-Java · Spring Boot · Spring Data JPA · Hibernate · H2 Database  
-`<https://github.com/Sanjanagupta96/wells-fargo-task-2>`
-🛡️ Abhyantra – Women's Safety Platform  
-Java · Servlets · JSP · MySQL · React  
-`<https://github.com/Sanjanagupta96/Abhayantra>`
-🏙️ Public Utility Management System – Nagar Nigam Complaint Tracker  
-HTML · CSS · Bootstrap · Java · SQL · Figma  
-`<https://github.com/Sanjanagupta96/Nagar-Nigam-Complaint-Tracker>`
-📊 Student Performance Tracker  
-Java · Servlets · JSP · MySQL · React  
-`<https://github.com/Sanjanagupta96/Student-Performance-Tracker>`
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjana+Gupta;Aspiring+Software+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;2026+CSE+Graduate" alt="Typing SVG" />
 
-📫 Let's Connect
+<br/>
 
-![sanjanagupta886060@gmail.com](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/sanjana-gupta-1359a629a/](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/Sanjanagupta96](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![https://leetcode.com/u/sanjanagupta8860/](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![https://portfolio-six-taupe-33.vercel.app/](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+📫 **sanjanagupta886060@gmail.com** &nbsp;|&nbsp; 🌐 [Portfolio](https://portfolio-six-taupe-33.vercel.app/) &nbsp;|&nbsp; 📍 Delhi, India
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+- 🎓 B.Tech CSE, Dr APJ Abdul Kalam Technical University (2022 – 2026), CGPA 8.5
+- 🛠️ Full-stack development with Java, Spring Boot, React, and MySQL
+- 🔭 Currently working on: full-stack projects using Java, Spring Boot, and React
+- 🌱 Currently learning: cloud fundamentals (Azure) and advanced Data Structures & Algorithms
+- 👯 Looking to collaborate on: Java/Spring Boot backend projects and React-based web apps
+- 💬 Ask me about: Java, Spring Boot, React, MySQL, or DSA
+- 🎯 Open to Software Developer / Full Stack Developer roles
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,c,html,css,bootstrap,mysql,postgres,git,github,postman,figma,vscode,vercel" alt="Tech Stack" />
+
+</div>
+
+<br/>
+
+## 📘 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure" />
+
+</div>
+
+- Cloud fundamentals (Microsoft Azure)
+- REST API design & Spring Data JPA
+- Advanced Data Structures & Algorithms
+- Machine Learning basics
+
+<br/>
+
+## 📦 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**💰 Financial Portfolio Management System**
+*Wells Fargo – Forage, July 2026*
+
+Backend modeling advisor–client–security relationships with a dedicated portfolio per client.
+
+`Java 11` `Spring Boot` `Spring Data JPA` `Hibernate` `H2`
+
+[Repo →](https://github.com/Sanjanagupta96/wells-fargo-task-2)
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Abhyantra — Women's Safety Platform**
+
+Emergency alerts, incident reporting, and location-based support with centralized response tracking.
+
+`Java` `Servlets` `JSP` `MySQL` `React`
+
+[Repo →](https://github.com/Sanjanagupta96/Abhayantra)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏙️ Public Utility Management System**
+*Nagar Nigam Complaint Tracker*
+
+Civic grievance platform for citizens to file and track municipal complaints.
+
+`HTML` `CSS` `Bootstrap` `Java` `SQL` `Figma`
+
+[Repo →](https://github.com/Sanjanagupta96/Nagar-Nigam-Complaint-Tracker)
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Student Performance Tracker**
+
+Web app to track and analyze student academic performance via dashboards.
+
+`Java` `Servlets` `JSP` `MySQL` `React`
+
+[Repo →](https://github.com/Sanjanagupta96/Student-Performance-Tracker)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjanagupta96&show_icons=true&theme=tokyonight&count_private=true" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Sanjanagupta96&theme=tokyonight" height="165" alt="Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjanagupta96&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sanjanagupta886060@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/sanjana-gupta-1359a629a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Sanjanagupta96"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/sanjanagupta8860/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://portfolio-six-taupe-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+</div>
 
